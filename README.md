@@ -37,6 +37,7 @@ Notes:
    behavior that can be reused across many different types while retaining
    the full information about that type." (J. Chadwick, Essential Typescript)
 
-   The syntax for defining is this: <genericName>. By convention, T is used.
+   The syntax for defining is to use the angle brackets (greater than and less than symbols)
+   with the name of the generic inside. By convention, T is used.
    The generic replaces hardcoding a type. This means a function or class
    can be reused with different types.
